@@ -1,0 +1,20 @@
+{
+    "email_credentials": {
+        "username": "default",
+        "password": "default"
+    },
+    "database_backup": {
+        "servername": "default",
+        "instance": "default",
+        "backup_directory_path": "default",
+        "remove_backups_older_than": "default"
+    },
+    "smtp_settings": {
+        "server_address": "default",
+        "port": "default",
+        "send_to": "default"
+    },
+    "logs": {
+        "log_file_path": "default"
+    }
+}

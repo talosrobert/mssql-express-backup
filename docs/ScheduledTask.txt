@@ -1,0 +1,5 @@
+Start a Program/script:
+Powershell.exe
+
+Argument:
+-ExecutionPolicy Bypass \\path\to\script.ps1
